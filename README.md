@@ -8,8 +8,7 @@
 
 <h3>Project Controls</h3>
 <p>Please keep in mind that this is a test environment and not a game. All stations can be interacted with the interaction key and are functional. But I seem to have forgotten to add the interacton prompt too a few of them. And they can get thrown around too so they are prone to spawning things under the floor if they fall over the wrong way.</p>
-<p align="center">
-<table>
+<table align="center">
 	<tr>
 		<td>Movement</td>
         <td>WASD</td>
@@ -35,7 +34,6 @@
         <td>Keypad 1</td>
     </tr>
 </table>
-</p>
 
 <h3>Development Notes</h3>
 <p>&emsp;A few months after being laid off, a friend and I participated in a game jam that didn't very get far. We stepped into the unfamiliar territory of 3D physics and were unaware of just how unfamiliar we were. However, I thought the concept we had come up with was interesting and decided to keep pressing forward even after the jam had ended. The first thing that I knew I needed to do was learn how to work within a 3D environment. We had originally tried the game jam in Godot but I decided to use Unity since I was more familiar with it. I figured once I learned it there, I could translate the knowledge to Godot for future projects.</p>
