@@ -4,7 +4,7 @@
 <p>&emsp;A small project I used as a sandbox to create a character controller based on ideas from a <a href=https://www.youtube.com/watch?v=qdskE8PJy6Q>video by Toyful Games</a>. I used this project to learn more about character controllers, the Unity 3D physics engine, C# events, polymorphism, component-based programming, and creating gameplay elements within a 3D environment. It was also going to eventually become the base for a game concept I was working on but the project fell to the side.</p>
 
 <h3>Download Information</h3>
-<p>&emsp;The download for this project is only available through this repository and only a Windows version of it is available for now. Clone the repo and unzip the "build.zip" folder. The project can be launched from the "3DCharacterTestBed.exe" file within the unzipped folder.</p>
+<p>&emsp;The <a href="build.zip">download</a> for this project is only available through this repository and only a Windows version of it is available for now. Clone the repo and unzip the "build.zip" folder. The project can be launched from the "3DCharacterTestBed.exe" file within the unzipped folder.</p>
 
 <h3>Project Controls</h3>
 <p>Please keep in mind that this is a test environment and not a game. All stations can be interacted with the interaction key and are functional. But I seem to have forgotten to add the interacton prompt too a few of them. And they can get thrown around too so they are prone to spawning things under the floor if they fall over the wrong way.</p>
